@@ -2,67 +2,109 @@
 
 The things I do when setting up a new Mac
 
+*After resetting completely my Macbook Pro, I was inspired by [Felix Krause aka KrauseFx](https://github.com/KrauseFx) to write about everything I install and setup when I have a new Mac. Here is everything I use (20/10/2018)👇*
+
 ## Setup shell
 
-- [ ] Install [iTerm 3](https://www.iterm2.com/version3.html)
-- [ ] Install [homebrew](https://brew.sh)
-- [ ] Login locally on GitHub and Bitbucket
-- [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles)
-- [ ] Follow [what-terminal-is-felix-using](https://github.com/KrauseFx/what-terminal-is-felix-using)
-- [ ] Transfer `.keys` file
-- [ ] Install my [brewfile](https://github.com/KrauseFx/brewfile/blob/master/Brewfile)
-- [ ] Login to heroku
+- [ ] Install [toothpaste](https://github.com/toothpaste-theme/toothpaste)
+
+- [ ] Login locally on [GitHub](https://github.com/) and [Gitlab](https://about.gitlab.com/)
+
+- [ ] Clone every Github/Gitlab project I need
+
+- [ ] Setup SSH keys on my Mac and Github/Gitlab
+
+- [ ] Setup [dotfiles](https://github.com/krausefx/dotfiles) (*in progress, trying KrauseFx's aliases*)
+
 
 ## Alfred
 
 - [ ] [Download](https://www.alfredapp.com/) and enable it for CMD + space
-- [ ] Enable sync via Dropbox
+- [ ] Select the Alfred macOS Black theme
 
-## BetterTouchTool
+## Cloud
 
-- [ ] Download, install and enable [BTT](https://www.boastr.net/)
-- [ ] Transfer settings from other Mac
+- [ ] Install and setup [Dropbox](https://www.dropbox.com)
+- [ ] Setup [iCloud Drive](https://www.icloud.com/)
 
-## Tweetbot
+## Development environment
 
-- [ ] Login to all accounts
-- [ ] Setup 3 panes
+- [ ] Install and setup [Brackets](http://brackets.io) for web development
+- [ ] Install and setup [Visual Studio Code](https://code.visualstudio.com/) for C programming
+- [ ] Install and setup [IntelliJ IDEA CE](https://www.jetbrains.com/idea/) for Java programming
 
-## Sublime Text
 
-- [ ] Migrate settings
-- [ ] Install plugins
+
+## Brackets
+
+- [ ] Use Brackets Dark theme
+- [ ] Install [Beautify](https://github.com/brackets-beautify/brackets-beautify)
+- [ ] Install [HTML Boilerplate](https://github.com/developer-vs/brackets-html-boilerplate)
+- [ ] Install [JavaScript Minifier](https://github.com/thaneuk/brackets-js-minifier-offline)
+
+## Chrome 
+
+ ✅ = enabled by default
+
+- [ ] [Buffer](https://chrome.google.com/webstore/detail/buffer/noojglkidnpfjbincgijbaiedldjfbhh) ✅
+- [ ] [Dashlane](https://chrome.google.com/webstore/detail/dashlane-password-manager/fdjamakpfbbddfjaooikfcpapjohcfmg)) ✅
+- [ ] [DF Tube](https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna) ✅
+- [ ] [Ecosia](https://chrome.google.com/webstore/detail/ecosia-the-search-engine/eedlgdlajadkbbjoobobefphmfkcchfk) ✅
+- [ ] [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg) ✅
+- [ ] [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) ✅
+- [ ] [News Feed Eradicator for Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg) ✅
+- [ ] [Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) ✅
+- [ ] [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) ✅
+- [ ] [Refined Twitter](https://chrome.google.com/webstore/detail/refined-twitter/nlfgmdembofgodcemomfeimamihoknip) ✅
+- [ ] [Todoist](https://chrome.google.com/webstore/detail/todoist-to-do-list-and-ta/jldhpllghnbhlbpcmnajkpdmadaolakh) ✅
+- [ ] [Trello](https://chrome.google.com/webstore/detail/trello/dmdidbedhnbabookbkpkgomahnocimke) ✅
+- [ ] [Tweet Counter](https://chrome.google.com/webstore/detail/tweet-counter/pmmbojoakabpjchdckbbenbkmldidpcj) ✅
+- [ ] [WhatsRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) ✅
+
+ ❌ = disabled by default
+
+- [ ] [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj)  ❌
+- [ ] [Lolli](https://chrome.google.com/webstore/detail/lolli-earn-bitcoin-when-y/fleenceagaplaefnklabikkmocalkcpo)  ❌
+- [ ] [Raindrop](https://chrome.google.com/webstore/detail/raindropio-save-button-fo/ldgfbffkinooeloadekpmfoklnobpien) ❌
 
 ## Finder
 
 - [ ] Show Path Bar
-- [ ] Remove labels and clean up Sidebar
+- [ ] Clean up Sidebar
+- [ ] Add Projects folder (Github folder) to Sidebar
+
+## macOS UI/UX
+
+- [ ] Activate Dark Mode
+- [ ] Disable every notification except for Facetime and iMessages
+- [ ] Show volume and Bluetooth in menubar
 
 ## Dock
 
 - [ ] Auto-hide dock
+- [ ] Auto-hide menubar
 - [ ] Remove all the  things
+- [ ] Add my favorite apps in dock
+- [ ] Remove recent apps from dock
 
 ## Install and setup
 
-- [ ] [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12)
-- [ ] [Aware](https://itunes.apple.com/us/app/aware/id1082170746?mt=12)
-- [ ] [Bartender](https://www.macbartender.com/)
-- [ ] [DejaLu](https://dejalu.me/)
+- [ ] [AppCleaner](https://freemacsoft.net/appcleaner/)
+- [ ] [Chrome](https://www.google.fr/chrome/index.html)
+- [ ] [Dashlane](https://www.dashlane.com/)
 - [ ] [Flux](https://justgetflux.com/)
-- [ ] [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
-- [ ] [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
-- [ ] [Apple watch screensaver](http://www.rasmusnielsen.dk/applewatch/)
+- [ ] [Notion](http://notion.so) (*Trying again Notion*)
+
+- [ ] [Polymail](https://polymail.io/) and make it the default email app
+- [ ] [RescueTime](https://www.rescuetime.com/)
+- [ ] [Slack](https://slack.com/)
+- [ ] [Spotify](http://spotify.com)
+- [ ] [Todoist](https://todoist.com)
+- [ ] [Trello](https://trello.com/)
+- [ ] [Typora](https://typora.io/)
+- [ ] [VLC](https://www.videolan.org/vlc/)
 
 ## Other
 
-- [ ] Transfer iMessages history (`~/Library/Messages`)
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
-- [ ] Enable taps for trackpad
-- [ ] Increase trackpad speed
-- [ ] Add email to lock message in `Security & Privacy` settings
-- [ ] Enable zoom for `control` + scrolling (System Preferences -> Accessibility -> Zoom -> `Use scroll gesture ...`
-- [ ] Custom keyboard shortcut for all apps: `control` + tab => `Select Next Tab` and `Next Tab`, same for previous (used in applications like Tweetbot)
-- [ ] Keyboard `Key Repeat` to the fastest, `Delay` to the second shortest
-- [ ] Enable US keyboard with German Umlaut mapping (see `USGermanKeyboard` folder)
 
